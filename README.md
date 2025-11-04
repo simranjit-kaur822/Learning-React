@@ -1,1 +1,1 @@
-# This repository is created to learn the react from basic
+# This repository is created to learn the React.
